@@ -1,4 +1,6 @@
 #include <iostream>
+#include "Python.h"
+
 #include <boost/python.hpp>
 #include <frameobject.h>
 #include "mymodule.hpp"
